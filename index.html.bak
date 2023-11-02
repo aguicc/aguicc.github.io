@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>display  images</title>
+</head>
+<body>
+    <p>
+        测试
+    </p>
+    <img src="./1.png" />
+    <a href="./123.php">test-download</a>
+</body>
+</html>
